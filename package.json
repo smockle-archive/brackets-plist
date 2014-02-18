@@ -1,0 +1,12 @@
+{
+    "name": "smockle.brackets-plist",
+    "title": "Brackets Plist",
+    "description": "Provides syntax highlighting for Property Lists (.plist files).",
+    "homepage": "https://github.com/smockle/brackets-plist",
+    "version": "0.1.0",
+    "author": "Clay Miller <clay@smockle.com>",
+    "license": "MIT",
+    "engines": {
+        "brackets": ">=0.24.0"
+    }
+}
