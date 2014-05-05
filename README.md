@@ -1,3 +1,5 @@
+DEPRECATED: PLIST SUPPORT IS NOW INCLUDED BY DEFAULT: https://github.com/adobe/brackets/pull/6915
+
 brackets-plist
 ===============
 
